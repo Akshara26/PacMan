@@ -64,7 +64,7 @@ Check out the demo videos:
 Follow these steps to run ML-PACMAN locally:
 
 ### 1. Clone the repository
-git clone https://github.com/GayathriBalaji98/VisualizationWithAIPacMan.git
+git clone https://github.com/Akshara26/PacMan.git
 cd VisualizationWithAIPacMan
 
 ### 2. Install dependancies
