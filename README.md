@@ -64,14 +64,14 @@ Check out the demo videos:
 Follow these steps to run ML-PACMAN locally:
 
 ### 1. Clone the repository
-git clone https://github.com/Akshara26/PacMan.git
-cd VisualizationWithAIPacMan
+`git clone https://github.com/Akshara26/PacMan.git`
+`cd VisualizationWithAIPacMan`
 
 ### 2. Install dependancies
-npm install
+`npm install`
 
 ### 3. Start the development server
-npm start
+`npm start`
 
 ### 4. Play the game
 Open your browser and start controlling Pac-Man!
